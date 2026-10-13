@@ -1,0 +1,7 @@
+{
+  "name": "KitchenIQ - Zero-Waste Smart Kitchen & AI Chef",
+  "description": "Intelligent kitchen assistant that tracks pantry inventory, scans fridge photos, and generates healthy zero-waste recipes strictly using ingredients you already own.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
